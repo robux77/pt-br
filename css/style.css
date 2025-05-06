@@ -277,7 +277,7 @@ button img {
     height: 250px;
     position: absolute;
     top: -13px;
-    background: url("/img/Mq7XbLd.png") no-repeat;
+    background: url("img/Mq7XbLd.png") no-repeat;
     background-size: 190px auto;
     z-index: 9999;
 }
