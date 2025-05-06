@@ -41,7 +41,7 @@ body {
 }
 
 .header {
-    background: url('img/GX4mTrQ.png') center/cover no-repeat;
+    background: url('../img/GX4mTrQ.png') center/cover no-repeat;
     padding: 40px 20px;
     text-align: center;
     color: #fff;
